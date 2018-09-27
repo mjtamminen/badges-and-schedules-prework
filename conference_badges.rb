@@ -6,7 +6,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(array)
-
+  messages = speakers.map {|item| item * 3}
 
 end 
   
